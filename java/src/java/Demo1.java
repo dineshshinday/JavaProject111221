@@ -5,6 +5,8 @@ public class Demo1 {
 	public static void main(String[] args) {
 		
 		System.out.println("java project and pull that file from server reposiory ");
+		System.out.println("fetch request");
+		
 
 	}
 
